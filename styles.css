@@ -28,10 +28,10 @@ body {
     border-radius: 8px;
     text-align: center;
     width: min(90vw, 325px);
-    padding: 32px;
+    padding: 40px;
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 12px;
 
 }
 
@@ -39,19 +39,22 @@ body {
     border-radius: 50%;
     aspect-ratio: 1;
     width: 95px;
+    margin-bottom: 32px;
 }
 
 #profile-name {
-    font-size: 28px;
+    font-size: 20px;
+    margin: 0px 0px 10px 0px;
 }
 
 #profile-location {
     color: var(--Green);
-    font-size: 16px;
+    font-size: 12px;
+    margin-bottom: 30px;
 }
 
 #profile-career {
-    margin-top: 20px;
+    margin: 0px;
     font-size: 14px;
     font-weight: 300;
 }

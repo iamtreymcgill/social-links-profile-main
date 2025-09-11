@@ -72,4 +72,4 @@ I’d like to continue focusing on:
 
 ### Author
 
-Frontend Mentor - @iamtreymcgill
+Frontend Mentor - @iamtreymcgill - Thank You!
